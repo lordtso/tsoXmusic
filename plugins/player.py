@@ -248,7 +248,7 @@ async def play(_, message: Message):
         await lel.edit("**🔄 Connecting to vc...**")
         query = message.text.split(None, 1)[1]
         # print(query)
-        await lel.edit("🔍 **ᴘʟᴀʏɪɴɢ ᴠɪᴀ ʀᴇᴅ ʟɪɢʜᴛ sᴇʀᴠᴇʀ...**")
+        await lel.edit("🔍 **🔄 Connecting to vc...**")
         try:
             results = YoutubeSearch(query, max_results=1).to_dict()
             url = f"https://youtube.com{results[0]['url_suffix']}"
