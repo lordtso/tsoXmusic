@@ -39,9 +39,9 @@ Give us a star and fork our repo
   
 ### Noob Developers 
   
-<a href="https://t.me/MrNitric"><img src="https://img.shields.io/badge/Romeo-ReD.svg?style=for-the-badge&logo=Python"></a> 
+<a href="https://t.me/MrNitric"><img src="https://img.shields.io/badge/MrNitric-ReD.svg?style=for-the-badge&logo=Python"></a> 
   
-<a href="https://t.me/ROCKSTAR_PRINCE_OP"><img src="https://img.shields.io/badge/Phoenix-ReD.svg?style=for-the-badge&logo=Python"></a> 
+<a href="https://t.me/ROCKSTAR_PRINCE_OP"><img src="https://img.shields.io/badge/PrinceOp-ReD.svg?style=for-the-badge&logo=Python"></a> 
   
 
 ## Support & Updates 
