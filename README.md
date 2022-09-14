@@ -1,4 +1,4 @@
-<h1 align="center"><b>Sakshi X Music TeleGram Music Streamer</b></h1>
+<h1 align="center"><b>TSO X Music TeleGram Music Streamer</b></h1>
 
 # <p align="center"><a href="https://github.com/TheFelliX/ShakshiXMusic"><img src="https://github-readme-stats.vercel.app/api/pin?username=TheFelliX&show_icons=true&theme=dracula&hide_border=true&repo=ShakshiXMusic"></a></p>
 <p align="center">
@@ -32,24 +32,24 @@
   
 
   
-# Sakshi X Music
+# TSO X Music
 Give us a star and fork our repo
   
   
   
 ### Noob Developers 
   
-<a href="https://t.me/MrNitric"><img src="https://img.shields.io/badge/MrNitric-ReD.svg?style=for-the-badge&logo=Python"></a> 
+<a href="https://t.me/@THE_SHIV_OFFICIAL"><img src="https://img.shields.io/badge/MrNitric-ReD.svg?style=for-the-badge&logo=Python"></a> 
   
-<a href="https://t.me/ROCKSTAR_PRINCE_OP"><img src="https://img.shields.io/badge/PrinceOp-ReD.svg?style=for-the-badge&logo=Python"></a> 
+<a href="https://t.me/TSO_KING"><img src="https://img.shields.io/badge/PrinceOp-ReD.svg?style=for-the-badge&logo=Python"></a> 
   
 
 ## Support & Updates 
-<a href="https://t.me/The_Friend_Circle"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Sanki_BOTs"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/full_on_bakchodi"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/tso_support"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
   
 # Support Us
   
   
 - Click Here 👇🏻 and Join Please
   
-  [![Sanki BOTs](https://telegra.ph/file/59bf7854494d0acf1f677.jpg)](https://t.me/Sanki_BOTs)
+  [𝐓𝐇𝐄 𝐒𝐇𝐈𝐕 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋](https://t.me/full_on_bakchodi)](https://t.me/tso_support)
